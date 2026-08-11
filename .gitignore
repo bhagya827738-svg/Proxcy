@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Wrangler local cache/state
+.wrangler/
+
+# Environment / secrets
+.dev.vars
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db

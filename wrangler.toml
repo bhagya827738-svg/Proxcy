@@ -1,0 +1,7 @@
+# CHANGE THE NAME TO YOUR OWN THING. YOUR PROXY WILL BE NAMED: https://[proxyname].workers.dev/v1/
+name = "ccc-proxy"
+main = "proxy.js"
+compatibility_date = "2026-07-01"
+
+[vars]
+UPSTREAM_ORIGIN = "https://agentrouter.org"
